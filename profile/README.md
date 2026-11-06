@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hf-mark.png" width="80" alt="HostFog">
+<img src="hf.png" width="80" alt="HostFog">
 
 # HostFog
 
